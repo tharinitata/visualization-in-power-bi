@@ -13,4 +13,4 @@ Link of the dataset - https://www.kaggle.com/datasets/ruchi798/movies-on-netflix
 •	Data cleaning , selected the required data , removed errors and unwanted data
 •	Transform data into load data
  Get data  CSV file  choose the file  click on okay
-# creat the dashboards with the help of visualization tools and conclude it.
+ creat the dashboards with the help of visualization tools and conclude it.
